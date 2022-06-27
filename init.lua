@@ -1,0 +1,6 @@
+require "khan.options"
+require "khan.keymaps"
+require "khan.plugins"
+require "khan.colorscheme"
+require "khan.cmp"
+require "khan.lsp"
